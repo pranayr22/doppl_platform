@@ -1,0 +1,7 @@
+.rightBar{
+    height: 100%;
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}

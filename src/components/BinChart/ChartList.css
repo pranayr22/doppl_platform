@@ -1,0 +1,57 @@
+.binList {
+    margin: 0 60px;
+    padding-top: 0;
+}
+.binItems{
+    list-style: none;
+    text-align: left;
+}
+.binItem {
+    margin: 7px 0;
+}
+
+.binCircle1 {
+    height: 14px;
+    width: 14px;
+    margin-right: 20px;
+    background-color: green;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+.binCircle2 {
+    height: 14px;
+    width: 14px;
+    margin-right: 20px;
+    background-color: yellow;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+.binCircle3 {
+    height: 14px;
+    width: 14px;
+    margin-right: 20px;
+    background-color: orange;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+.binCircle4 {
+    height: 14px;
+    width: 14px;
+    margin-right: 20px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+.binCircle5 {
+    height: 14px;
+    width: 14px;
+    margin-right: 20px;
+    background-color: purple;
+    display: inline-block;
+    border-radius: 20px;
+    
+}

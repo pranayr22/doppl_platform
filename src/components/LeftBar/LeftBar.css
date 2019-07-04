@@ -1,0 +1,7 @@
+.leftBar {
+    background-color: aqua;
+    width: 20vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

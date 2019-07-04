@@ -1,0 +1,6 @@
+.main {
+    height: 100vh;
+    width: 55vw;
+    background: white;
+    display: flex;
+}
